@@ -13,6 +13,8 @@ https://unsplash.com/developers
 
 Once you create an account, you'll need to edit the unsplash script with your API key. 
 
+Afterwards, you'll want to edit the script so that the images may be stored locally to your machine. Just edit the path variable
+and you're good to go!
 
 ### Libraries 
 
