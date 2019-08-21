@@ -35,7 +35,7 @@ cd /desired_path
 Clone the repository
 
 ```
-git clone https://github.com/NeveuxSolutions/TheReminder.git
+git clone https://github.com/NeveuxSolutions/BackgroundChanger.git
 ```
 
 ## Running the program
